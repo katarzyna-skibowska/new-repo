@@ -1,2 +1,2 @@
 Solving common HTML problems - how to do it???
-Use HTML to solve common problems provides links to sections of content explaining how to use HTML to solve very common problems when creating a webpage: dealing with titles, adding images or videos, emphasizing content, creating a basic form, etc.
+Use HTML to solve common problems provides links to sections of content explaining how to use HTML to solve very common problems when creating a webpage: dealing with titles, adding images or 
